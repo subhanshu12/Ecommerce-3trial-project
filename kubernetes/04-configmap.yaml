@@ -4,8 +4,8 @@ metadata:
   name: easyshop-config
   namespace: easyshop
 data:
-  CDN_URL: "https://d3hjlplrjmk2we.cloudfront.net"
+  CDN_URL: "https://d1k2vzv1k2d2me.cloudfront.net"
   MONGODB_URI: "mongodb://mongodb-service:27017/easyshop"
   NODE_ENV: "production"
-  NEXT_PUBLIC_API_URL: "http://a3bae2599c43a4c1a9b9d441b48f6332-5d76ae8863638325.elb.eu-north-1.amazonaws.com/api"
-  NEXTAUTH_URL: "http://a3bae2599c43a4c1a9b9d441b48f6332-5d76ae8863638325.elb.eu-north-1.amazonaws.com"
+  NEXT_PUBLIC_API_URL: "http://k8s-easyshop-easyshop-36e3ec2172-1437662771.eu-north-1.elb.amazonaws.com/api"
+  NEXTAUTH_URL: "http://k8s-easyshop-easyshop-36e3ec2172-1437662771.eu-north-1.elb.amazonaws.com"
